@@ -6,18 +6,14 @@ also send the readings to ThingSpeak server using the Wi-Fi module ESP8266, so
 that Heart Beats can be monitored from anywhere in the world over the internet.
 
 
-
-
-
-
 COMPONENTS USED:-
- Pulse sensor
- Wi-Fi module- ESP8266
- Arduino Uno
- LCD
- Bread Board
- 10k potentiometer
- 220 ohm resistors
- LED
- Connecting wires
- Laptop with Internet connection.CIRCUIT DIAGRAM
+Pulse sensor
+Wi-Fi module- ESP8266
+Arduino Uno
+LCD
+Bread Board
+10k potentiometer
+220 ohm resistor
+LED
+Connecting wires
+Laptop with Internet connection.CIRCUIT DIAGRAM
